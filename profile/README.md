@@ -26,9 +26,6 @@
 #### Theme
 
 
-#### Research Questions
-
-
 #### Project Overview
 <p align=justify>
 
@@ -36,9 +33,15 @@
 
 #### Key Features
 
+- HR Chatbot: Engage in dynamic, real-time conversations enhanced by emotion-risk assessment—from supportive guidance to controlled sarcasm. Each interaction concludes with an immediate, data-driven performance evaluation to sharpen your communication and confidence. (Text-base interview)
+- Job Roadmaps: Follow a clearly defined, step-by-step pathway tailored to your target role. Progress through prerequisite courses and practical milestones, unlocking achievements as you advance toward your career goals.
+- CV Analyzer: Transform your resume into six comprehensive sections—Profile Summary, Education, Professional Experience, Skills, Certifications, and Portfolio. Receive precision insights and industry-standard recommendations to present the strongest possible application.
+- Courses: Access a curated catalog of expert-vetted courses aligned with your chosen career roadmap. Leverage skill-gap analysis to identify and enroll in the exact learning modules you need to excel.
+- Job List: Discover and apply to open positions directly within inTrain.ai. Employers can seamlessly publish recruitment campaigns and highlight opportunities—maximizing visibility among qualified candidates.
 
 #### Tech Stacks
 
+- Programming Language: Python, Kotlin
 - Flask: A lightweight framework for building web servers and APIs.
 - Google Cloud Platform (GCP): Utilized for deploying APIs, servers, and managing cloud infrastructure.
 - VSCode: A versatile code editor for efficient development.
@@ -92,6 +95,11 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 
 #### Disclaimer
 
+- This project is currently pbeing developed by our team as part of the Capstone Project.
+- The primary purpose of this project is to fulfill the requirements of coursework and to fullfill the innovation exhibition
+- The project is not yet intended for open-source release or commercial use. All rights and restrictions related to the project remain under the team's discretion until further notice.
+- The team makes no representations or warranties regarding the accuracy or completeness of this project.
+- Use of this project is at your own risk; the team shall not be liable for any damages arising from its use.
 
 #### Notes
 
