@@ -24,11 +24,19 @@
 ---
 
 #### Theme
-
+Empowering career success through AI‑driven guidance, personalized learning paths, and data‑backed insights.
 
 #### Project Overview
 <p align=justify>
+inTrain.ai is engineered as an end‑to‑end career development ecosystem that adapts to each user’s unique journey, blending AI intelligence with human‑centric design. The platform begins by assessing an individual’s current skill set and career ambitions through a combination of sentiment‑aware chatbot conversations and targeted questionnaires, ensuring that every pathway is rooted in the user’s genuine motivations and emotional profile. Once core strengths and areas for growth are identified, inTrain.ai dynamically constructs a personalized Job Roadmap, outlining precise milestones—from foundational courses to hands‑on projects—that guide users steadily toward their target role.
+</p>
 
+<p align=justify>
+Throughout the journey, the integrated HR Chatbot provides on‑demand mock interview practice, capable of adjusting its tone from empathetic coaching to controlled, constructive sarcasm based on real‑time emotion‑risk analysis; each mock session is accompanied by a detailed performance report that highlights communication strengths, pinpoints hesitation patterns, and offers concrete suggestions for improvement. Simultaneously, the CV Analyzer parses and restructures a user’s resume into six standardized sections—ensuring consistency with industry best practices—and flags missing accomplishments or keyword gaps that could limit an applicant’s visibility in applicant‑tracking systems.
+</p>
+
+<p align=justify>
+To bridge identified skill gaps, inTrain.ai curates a personalized course catalog drawn from leading educational providers, automatically recommending the most relevant learning modules and tracking progress through built‑in quizzes and certifications. Finally, the platform’s Job List aggregates live openings from partner companies and standard job boards, allowing users to apply directly within the app; employers, in turn, gain access to an analytics dashboard that highlights candidate engagement, sentiment scores from chatbot interviews, and constructed CV strengths—fostering a data‑driven recruitment process that benefits both sides of the hiring equation.
 </p>
 
 #### Key Features
