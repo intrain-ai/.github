@@ -105,4 +105,5 @@ If you are new to this project and would like to contribute, please reach out to
 #### Author
 
 Github Organization: [inTrain.ai](https://github.com/intrain-ai)
+
 Founder: [Founder](https://github.com/rahfianugerah)
