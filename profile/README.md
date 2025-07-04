@@ -72,32 +72,6 @@ To bridge identified skill gaps, inTrain.ai curates a personalized course catalo
 
 ---
 
-#### Active Contributor
-
-<div align=center>
-
-| Name  | Student ID | Roles | University |
-|---|---|---|---|
-| Naufal Rahfi Anugerah | 41822010038 | Project Manager, Cloud Architect & BackEnd Engineer | Universitas Mercu Buana |
-| Ari Satrio Murdoko Andjalmo | 41822010025 | Mobile App Engineer, UI/X Designer | Universitas Mercu Buana |
-| Aldi Rahman Hermawan | 41822010004 | Mobile App Developer, UI/X Designer, Support Engineer | Universitas Mercu Buana |
-| Alvino Dinova Firmansyah | 41822010099 | Mobile App Developer, UI/X Designer | Universitas Mercu Buana |
-
-</div>
-
-#### Legacy Contributor
-
-<div align=center>
-
-| Name  | Student ID | Roles | University |
-|---|---|---|---|
-| Naufal Rahfi Anugerah | 41822010038 | Project Manager, Cloud Architect & BackEnd Engineer | Universitas Mercu Buana |
-| Ari Satrio Murdoko Andjalmo | 41822010025 | Mobile App Engineer, UI/X Designer | Universitas Mercu Buana |
-| Aldi Rahman Hermawan | 41822010004 | Mobile App Developer, UI/X Designer, Support Engineer | Universitas Mercu Buana |
-| Alvino Dinova Firmansyah | 41822010099 | Mobile App Developer, UI/X Designer | Universitas Mercu Buana |
-
-</div>
-
 #### License
 
 <p align=justify>
