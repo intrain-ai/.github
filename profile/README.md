@@ -23,6 +23,9 @@
 
 ---
 
+#### Download the App
+[Click here! - inTrain.ai]()
+
 #### Theme
 Empowering career success through AI‑driven guidance, personalized learning paths, and data‑backed insights.
 
