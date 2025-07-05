@@ -24,7 +24,7 @@
 ---
 
 #### Download the App
-[Click here! - inTrain.ai]()
+[Click here! - inTrain.ai](https://github.com/intrain-ai/mobile-intrain/releases/tag/app)
 
 #### Theme
 Empowering career success through AI‑driven guidance, personalized learning paths, and data‑backed insights.
