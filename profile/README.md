@@ -86,15 +86,38 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 - The team makes no representations or warranties regarding the accuracy or completeness of this project.
 - Use of this project is at your own risk; the team shall not be liable for any damages arising from its use.
 
-#### Notes
+---
 
-<p align=justify>
+#### Active Contributor
 
-</p>
+<div align=center>
+
+| Name | Roles | University |
+|---|---|---|
+| Naufal Rahfi Anugerah | Founder, Project Manager, BackEnd Engineer, AI Engineer | Mercu Buana University|
+| Ari Satrio Murdoko Andjalmo | Mobile App Designer, Android Engineer | Mercu Buana University|
+| Aldi Rahman Hermawan | Fullstack Android Engineer | Mercu Buana University|
+
+</div>
 
 ---
 
-**Important Message from PM:**
+#### Legacy Contributor
+
+<div align=center>
+
+| Name | Roles | University |
+|---|---|---|
+| Naufal Rahfi Anugerah | Founder, Project Manager, BackEnd Engineer, AI Engineer | Mercu Buana University|
+| Ari Satrio Murdoko Andjalmo | Mobile App Designer, Android Engineer | Mercu Buana University|
+| Aldi Rahman Hermawan | Fullstack Android Engineer | Mercu Buana University|
+| Alvino Dinova Firmansyah | UI/UX Designer | Mercu Buana University|
+
+</div>
+
+---
+
+**Notes from PM:**
 
 If you wish to continue contributing to this project, please request repository access from the Project Manager (PM), especially if you have previously contributed (legacy contributor). 
 
